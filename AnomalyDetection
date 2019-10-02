@@ -6,3 +6,5 @@ https://github.com/bashtage/arch
       Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python 
 https://blog.csdn.net/liuchengzimozigreat/article/details/87931248  
 Python的Mann-Kendall非参数检验和计算Hurst指数:https://blog.csdn.net/weixin_40450867/article/details/81135135
+
+MannKendall   https://github.com/mmhs013/pyMannKendall
