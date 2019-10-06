@@ -9,6 +9,6 @@ This field is to record the methods related to time series analysis.
 
 * 3.[AutoRegressive Conditional Heteroskedasticity--ARCH](https://github.com/bashtage/arch)
 
-* 4.[S-H-E Abnormaly Detection.py](https://pypi.org/project/pyculiar/)
+* 4.[S-H-E Abnormaly Detection lib](https://pypi.org/project/pyculiar/)
 
 * 5.[S-H-E Abnormaly Detection2](https://github.com/wdm0006/pyculiarity)
