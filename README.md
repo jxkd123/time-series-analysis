@@ -5,4 +5,4 @@ This field is to record the methods related to time series analysis.
 
 * 2.[MannKendall](https://github.com/mmhs013/pyMannKendall)
 
-* 3.[Autoregressive Conditional Heteroskedasticity--ARCH](https://github.com/bashtage/arch)
+* 3.[AutoRegressive Conditional Heteroskedasticity--ARCH](https://github.com/bashtage/arch)
