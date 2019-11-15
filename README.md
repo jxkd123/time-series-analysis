@@ -14,4 +14,4 @@ This field is to record the methods related to time series analysis.
 * 5.[S-H-E Abnormaly Detection2](https://github.com/wdm0006/pyculiarity)
 
 * 6.[Buishand Range Test, Pettit Test, SNHT (), student test and Mann-Whitney Rank Test, to identify breakpoints in series](https://github.com/santiagoh719/BreakPoints)
-* 7.[AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
+* 7.[twitter/AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
