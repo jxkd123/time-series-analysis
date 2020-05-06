@@ -17,3 +17,5 @@ This field is to record the methods related to time series analysis.
 * 7.[twitter/AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
 
 * 8[https://github.com/slayAlphalu/Timeseries-analysis-](https://github.com/slayAlphalu/Timeseries-analysis-).
+
+* 9[信号处理算法库](https://github.com/hustcxl/SP_Lib)
