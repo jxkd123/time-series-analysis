@@ -15,3 +15,5 @@ This field is to record the methods related to time series analysis.
 
 * 6.[Buishand Range Test, Pettit Test, SNHT (), student test and Mann-Whitney Rank Test, to identify breakpoints in series](https://github.com/santiagoh719/BreakPoints)
 * 7.[twitter/AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
+
+* 8[https://github.com/slayAlphalu/Timeseries-analysis-](https://github.com/slayAlphalu/Timeseries-analysis-).
